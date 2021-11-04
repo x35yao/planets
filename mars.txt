@@ -1,5 +1,1 @@
-<<<<<<< HEAD
  here is mars.
-=======
- here is mars.
->>>>>>> ff96e4e89aa72f9c7564c50f03690685da7421f0
